@@ -1,0 +1,42 @@
+
+.app {
+  padding: 30px;
+  margin-top: 10%;
+  align-self:center;
+  background-color: #1D262B;
+  width:60%;
+  height:80%;
+  border-radius: 8px;
+  margin-left: 20%;
+}
+.card{
+  background-color:#1b1b1b;
+}
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+  color:rgba(255,255,255,.5);
+ 
+}
+.card-body{
+  background-color:#1b1b1b;
+  margin-bottom: 5px;
+  box-shadow: none;
+  border-radius: 8px;
+  border:1px solid 
+   
+     #b447eb;
+}
+.btn{
+  display: flex-end;
+}
+.form-control{
+  width:80%;
+
+}
+.custom-btn{
+  position: relative;
+  right:0;
+}
